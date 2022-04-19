@@ -1,0 +1,38 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "american-gothic.arreferenceimage"
+    },
+    {
+      "filename" : "christinas-world.arreferenceimage"
+    },
+    {
+      "filename" : "girl-with-pearl-earring.arreferenceimage"
+    },
+    {
+      "filename" : "la-grande-jatte.arreferenceimage"
+    },
+    {
+      "filename" : "mona-lisa.arreferenceimage"
+    },
+    {
+      "filename" : "persistence-of-memory.arreferenceimage"
+    },
+    {
+      "filename" : "the-scream.arreferenceimage"
+    },
+    {
+      "filename" : "the-son-of-man.arreferenceimage"
+    },
+    {
+      "filename" : "the-starry-night.arreferenceimage"
+    },
+    {
+      "filename" : "the-swing.arreferenceimage"
+    }
+  ]
+}

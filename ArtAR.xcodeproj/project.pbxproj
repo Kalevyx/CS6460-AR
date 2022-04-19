@@ -14,6 +14,8 @@
 		0AA82AF127FBEE4600F83835 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA82AEF27FBEE4600F83835 /* LaunchScreen.storyboard */; };
 		0AA82AFC27FBEE4700F83835 /* ArtARTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA82AFB27FBEE4700F83835 /* ArtARTests.swift */; };
 		0AA82B0727FBEE4700F83835 /* ArtARUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA82B0627FBEE4700F83835 /* ArtARUITests.swift */; };
+		660B6F5E28036FFC00846166 /* Artworks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 660B6F5D28036FFC00846166 /* Artworks.swift */; };
+		660B6F682803B72900846166 /* artworks.json in Resources */ = {isa = PBXBuildFile; fileRef = 660B6F672803B72800846166 /* artworks.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		0AA82B0227FBEE4700F83835 /* ArtARUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArtARUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AA82B0627FBEE4700F83835 /* ArtARUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtARUITests.swift; sourceTree = "<group>"; };
 		0AA82B0827FBEE4700F83835 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		660B6F5D28036FFC00846166 /* Artworks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artworks.swift; sourceTree = "<group>"; };
+		660B6F672803B72800846166 /* artworks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = artworks.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				0AA82AED27FBEE4600F83835 /* Assets.xcassets */,
 				0AA82AEF27FBEE4600F83835 /* LaunchScreen.storyboard */,
 				0AA82AF227FBEE4600F83835 /* Info.plist */,
+				660B6F672803B72800846166 /* artworks.json */,
+				660B6F5D28036FFC00846166 /* Artworks.swift */,
 			);
 			path = ArtAR;
 			sourceTree = "<group>";
@@ -231,6 +237,7 @@
 			files = (
 				0AA82AF127FBEE4600F83835 /* LaunchScreen.storyboard in Resources */,
 				0AA82AEE27FBEE4600F83835 /* Assets.xcassets in Resources */,
+				660B6F682803B72900846166 /* artworks.json in Resources */,
 				0AA82AEC27FBEE4300F83835 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				660B6F5E28036FFC00846166 /* Artworks.swift in Sources */,
 				0AA82AE927FBEE4300F83835 /* ViewController.swift in Sources */,
 				0AA82AE527FBEE4300F83835 /* AppDelegate.swift in Sources */,
 			);

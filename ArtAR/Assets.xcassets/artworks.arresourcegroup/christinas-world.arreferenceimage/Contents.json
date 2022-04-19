@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "christinas-world.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 4.3411042944785274
+  }
+}

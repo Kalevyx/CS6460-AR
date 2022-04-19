@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "girl-with-pearl-earring.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 3.3832599118942732
+  }
+}

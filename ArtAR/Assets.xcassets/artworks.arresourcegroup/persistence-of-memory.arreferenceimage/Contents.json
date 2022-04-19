@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "persistence-of-memory.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 4.0291489361702126
+  }
+}

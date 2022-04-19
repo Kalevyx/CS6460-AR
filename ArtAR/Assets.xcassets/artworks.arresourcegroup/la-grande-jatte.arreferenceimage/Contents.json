@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "la-grande-jatte.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 5.3567999999999998
+  }
+}
