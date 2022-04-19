@@ -1,0 +1,72 @@
+{
+    "mona-lisa": {
+        "name": "Mona Lisa",
+        "artist": "Leonardo Da Vinci",
+        "description": "Using oil on a white poplar wood panel, the Mona Lisa is a portrait, likely Lisa Ghererdani, by Leonardo Da Vince from the Italian Renaissance, sometime between 1503 and 1519. One reason why this painting has captured the public’s eye is due to the mysterious smile and her unknown identity.",
+        "fact": "Fun fact: Unlike many other pieces of artwork, this painting cannot be sold; it belongs to the public and resides as part of the Louvre collection.",
+        "sources": "https://www.britannica.com/topic/Mona-Lisa-painting, https://www.leonardodavinci.net/the-mona-lisa.jsp"
+    },
+    "the-scream": {
+        "name": "The Scream",
+        "artist": "Edvard Munch",
+        "description": "Originally painted in 1893 by Edvard Munch, there are 4 variations of this piece of artwork: two in paint and two in pastels. According to Munch's journal, the inspiration behind this painting came as he was 'walking along the road with two friends' when the sky turned a 'bloody red' after the sunset. He 'stood there trembling with anxiety... and felt a vast infinite scream through nature'.",
+        "fact": "Fun fact: In 1994, bandits stole the painting and left a note that said, 'Thanks for the poor security.' In 2004, it was stolen again. However, Mars Inc. offered 2 million M&Ms to whoever returned the painting; the thief agreed although he never received it.",
+        "sources": "https://smarthistory.org/munch-the-scream/, https://blog.yizzam.com/edvard-munch-and-the-scream/, https://www.artnews.com/art-news/news/the-scream-the-thief-and-the-2-million-mms-197/"
+    },
+    "the-starry-night": {
+        "name": "The Starry Night",
+        "artist": "Vincent van Gogh",
+        "description": "van Gogh used oil on canvas and painted The Starry Night in 1889 as a result of his mental illness recovery journey and the amputation of his ear, inspired from his view at the Saint-Paul-de-Mausole asylum. Analysts have assumed the painting to be related to van Gogh’s view on death, hinting at his eventual suicide.",
+        "fact": "Fun fact: This is not the original Starry Night painting. The first one was called Starry Night Over the Rhone; van Gogh’s goal was to “captur[e] the lights of the night sky.",
+        "sources": "https://www.moma.org/collection/works/79802, https://www.vincentvangogh.org/starry-night.jsp, https://www.mentalfloss.com/article/62621/11-things-you-didnt-know-about-starry-night"
+    },
+    "american-gothic": {
+        "name": "American Gothic",
+        "artist": "Grant Wood",
+        "description": "Completed in 1930 with oil on a beaver board, this painting’s purpose is still somewhat unclear although Wood’s intention was to communicate a positive view of rural American values. However, many say it could be dedicated to portraying or mocking how he viewed midwestern life.",
+        "fact": "Fun fact: Several sources say this is of a farmer and his daughter, others say it’s a husband and his wife; the actual models were Wood’s sister and his dentist.",
+        "sources": "https://www.artic.edu/artworks/6565/american-gothic, https://www.britannica.com/biography/Grant-Wood"
+    },
+    "girl-with-pearl-earring": {
+        "name": "Girl with a Pearl Earring",
+        "artist": "Johannes Vermeer",
+        "description": "Painted around 1665, this unique piece of artwork does not capture women at their daily tasks, which is often Vermeer’s muse. Because of her unknown identity and mysteriousness, some compared her to the Mona Lisa (“Mona Lisa of the North''), but a main difference is that this is not a portrait. Vermeer may have used a model, but the figure who inspires the lady in the painting is imaginary, although some speculate that she may be Vermeer’s daughter.",
+        "fact": "Fun fact: Although the background looks closer to black, it used to be a glossy green. Over the last few centuries, the pigments have broken down, causing the color to change.",
+        "sources": "https://www.britannica.com/topic/Girl-with-a-Pearl-Earring-by-Vermeer, https://www.mentalfloss.com/article/63692/15-lovely-facts-about-girl-pearl-earring"
+    },
+    "la-grande-jatte": {
+        "name": "A Sunday Afternoon on the Island of La Grande Jatte",
+        "artist": "Georges Seurat",
+        "description": "A glimpse into wealthy Parisian life, Seurat used patchy brushstrokes to separate the colors on the canvas while allowing the colors to blend in the viewer’s eyes, otherwise known as the pointillist technique. The process of achieving this piece of artwork included “28 drawings, 28 panels and three larger canvases.”",
+        "fact": "Fun fact: Given that the canvas is roughly 7 feet by 10 feet, this painting is made up of millions of dots.",
+        "sources": "https://www.artble.com/artists/georges_seurat/paintings/a_sunday_afternoon_on_the_island_of_la_grande_jatte, https://www.mentalfloss.com/article/63510/15-things-you-might-not-know-about-sunday-la-grande-jatte-1884"
+    },
+    "the-son-of-man": {
+        "name": "The Son of Man",
+        "artist": "Rene Magritte",
+        "description": "One of the most recognizable pieces of artwork from the Surrealist movement, this 1964 painting is a self-portrait requested by Magritte’s friend, Harry Torczyner. Magritte struggled composing this piece, which resulted in the seemingly anonymous man hidden behind an apple. Even the title of the painting suggests that it could be anyone.",
+        "fact": "Fun fact: Unlike many other famous paintings, The Son of Man is privately owned and rarely seen.",
+        "sources": "https://www.rene-magritte.com/son-of-man/, https://www.mentalfloss.com/article/63241/10-things-you-might-not-know-about-son-man"
+    },
+    "persistence-of-memory": {
+        "name": "The Persistence of Memory",
+        "artist": "Salvador Dali",
+        "description": "The concept behind this painting suggests a place where time has lost all meaning in the unconscious world, which can be seen from the limp watches to ants attacking a gold metallic watch. According to Dali, these watches are “as soft as overripe cheese” and represent the “camembert of time”.",
+        "fact": "Fun fact: Before this painting, Dali studied psychoanalysis and Sigmund Freud’s work and theories of the unconscious, which inspired his “paranoid-critical” approach.",
+        "sources": "https://www.moma.org/collection/works/79018, https://www.dalipaintings.com/persistence-of-memory.jsp"
+    },
+    "the-swing": {
+        "name": "The Swing",
+        "artist": "Jean Honore Fragonard",
+        "description": "Painted with oil on canvas in 1767, a baron of the court requested a painting of his mistress being pushed on a swing as he looked up her skirt from below. The swing was a leisure activity of the elite at the time, and there are many indications in the painting that seemingly promote illicit love and suggest a break from tradition for women. The baron originally approached painter Gabriel Francois Doyen to ask him to create this for him, but Doyen refused due to the nature of the painting.",
+        "fact": "Fun fact: Part of this painting, just the woman and the man pushing her, is featured in Frozen when Anna sings throughout the castle as the gates are opened.",
+        "sources": "https://smarthistory.org/jean-honore-fragonard-the-swing/, https://www.artsy.net/article/artsy-editorial-undressing-erotic-symbolism-the-swing-fragonards-decadent-masterpiece, https://culturezvous.com/en/analysis-fragonard-the-swing/"
+    },
+    "christinas-world": {
+        "name": "Christina’s World",
+        "artist": "Andrew Wyeth",
+        "description": "Wyeth’s neighbor, Anna Christina Olson, was the inspiration behind this composition. Olson had a degenerative muscle condition that prevented her from walking, but she preferred crawling instead of using a wheelchair. Wyeth wanted “to do justice to her extraordinary conquest of a life which most people would consider hopeless.”",
+        "fact": "Fun fact: Wyeth’s wife modeled for the head and torso of the painting. This has caused some controversy as some ponder whether Wyeth wanted more beauty or if Wyeth didn’t get Christina’s consent to paint her.",
+        "sources": "https://www.artble.com/artists/georges_seurat/paintings/a_sunday_afternoon_on_the_island_of_la_grande_jatte, https://www.mentalfloss.com/article/63510/15-things-you-might-not-know-about-sunday-la-grande-jatte-1884"
+    }
+}

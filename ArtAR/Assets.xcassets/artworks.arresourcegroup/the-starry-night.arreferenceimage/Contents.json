@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "the-starry-night.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 4.0277602523659306
+  }
+}
